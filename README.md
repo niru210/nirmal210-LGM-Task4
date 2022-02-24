@@ -1,4 +1,4 @@
-DEPLOYED APP:- nirmal210-lgm-task4-fv167ap3c-niru210.vercel.app
+DEPLOYED APP:- https://nirmal210-lgm-task4-fv167ap3c-niru210.vercel.app/
 
 
 
